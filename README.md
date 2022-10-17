@@ -7,7 +7,7 @@
 ![License][license-image-mit]
 # Bracex
 
-Bracex is a brace expanding library (à la Bash) for Python. Brace expanding is used to generate arbitrary strings.
+Bracex is a brace expanding library for Python. Brace expanding is used to generate arbitrary strings.
 
 ```console
 $ echo {{a,b},c}d
