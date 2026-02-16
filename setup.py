@@ -31,7 +31,7 @@ def get_requirements(req):
 def get_description():
     """Get long description."""
 
-    with open("README.md", 'r') as f:
+    with open("README.md", 'r', encoding='utf-8') as f:
         desc = f.read()
     return desc
 
