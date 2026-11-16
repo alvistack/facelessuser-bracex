@@ -1,0 +1,4 @@
+python-bracex source: file-without-copyright-information
+python-bracex source: no-debian-changes
+python-bracex source: source-contains-prebuilt-windows-binary
+python-bracex source: source-package-encodes-python-version
